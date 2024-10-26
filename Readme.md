@@ -1,0 +1,1 @@
+# this a dns server list from https://download.dnscrypt.info/dnscrypt-resolvers/json/public-resolvers.json
